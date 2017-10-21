@@ -1,0 +1,18 @@
+name: "Portfolio"
+navbar:
+  title: "HOME"
+  type: inverse
+  right:
+    - text: "First Observations"
+      href: first_observations.html
+    - text: "Basic Workflow"
+      href: basic_workflow.html
+    - text: "Getting Sophisticated"
+      href: getting_sophisticated.html
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+#    include:
+#      after_body: _footer.html
