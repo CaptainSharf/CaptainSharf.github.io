@@ -4,7 +4,8 @@ author:  "[Sharfuddin Mohammed](https://github.com/CaptainSharf) at [KCIS ML Lab
 ---
 ---
 
-<img class="resize" align="right" src="images/profile_pic.png" width="250" height="343" hspace="20" vspace="10">
+<img class="resize" align="right" src="images/profile_pic.png" width="250"
+height="343" hspace="20" vspace="10">
 
 Hi! I'm a Senior year undergrad student at IIIT-H majoring in Computer Science.My interests lie in Virtual Reality(VR),Computational Photograhy and Deep Reinforcement Learning.
 
@@ -12,7 +13,6 @@ I am currently working at [ Dreamvu inc. ](http://dreamvu.com/) as a Research as
 
 I'm also working as an undergraduate researcher at the Kohli Center for Intelligent Systems(IIIT-H) under the guidance of [ Dr.Girish Varma ](https://geevi.github.io).Our aim is to improve upon the peformance of the current visual servoying algorithms and come up with a better solution using Reinforcement Learning.Until now I have implemented many of  the fundamental algorithms in Deep-Reinforcement Learning including the [DQN](Atari140M Benchmark), [DDPG](Continuous)and the [A3C](on the Atari140M Benchmark) on environments in OpenAI-gym.
 
-My Resume can be found here ([ CV ](https://web.iiit.ac.in/~mohammed.sharfuddin/images/Resume.pdf)).
-
+My Resume can be found here ([ CV ](./resume.pdf)).
 
 ----

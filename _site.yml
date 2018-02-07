@@ -1,7 +1,11 @@
 name: "Portfolio"
 navbar:
-  title: "HOME"
   type: inverse
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Resume"
+      href: resume.pdf
 #  right:
 #    - text: "First Observations"
 #      href: first_observations.html
